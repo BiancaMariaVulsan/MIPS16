@@ -1,0 +1,15 @@
+#-----------------------------------------------------------
+# Vivado v2021.2 (64-bit)
+# SW Build 3367213 on Tue Oct 19 02:48:09 MDT 2021
+# IP Build 3369179 on Thu Oct 21 08:25:16 MDT 2021
+# Start of session at: Thu Mar 24 20:45:20 2022
+# Process ID: 14992
+# Current directory: D:/FACULTATE/test_env
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent16172 D:\FACULTATE\test_env\test_env.xpr
+# Log file: D:/FACULTATE/test_env/vivado.log
+# Journal file: D:/FACULTATE/test_env\vivado.jou
+# Running On: DESKTOP-2US6NA4, OS: Windows, CPU Frequency: 2808 MHz, CPU Physical cores: 4, Host memory: 8465 MB
+#-----------------------------------------------------------
+start_gui
+open_project D:/FACULTATE/test_env/test_env.xpr
+update_compile_order -fileset sources_1
